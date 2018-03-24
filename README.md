@@ -4,7 +4,9 @@
 
 ### :mega: ANNOUNCEMENT
 
-*There is not a stable release yet. Download at your own risk.*
+The master branch is under active development and may not always be working.
+
+**Stable Release:** [v0.1](https://github.com/deviodigital/hue.js/releases/tag/0.1)
 
 ### :book: DOCS
 
