@@ -1,2 +1,3 @@
 # hue.js
-🚧 WIP - **hue.js** WordPress Color Picker
+🚧 **WIP**
+WordPress Color Picker
