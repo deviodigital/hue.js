@@ -2,8 +2,6 @@
 
 **Color Picker for WordPress** - :point_up: Make sure you :star: and :eyes: this repository!
 
-![Marijuana WordPress Plugin](https://www.wpdispensary.com/wp-content/uploads/2018/03/wpd-github-readme.jpg)
-
 ### :mega: ANNOUNCEMENT
 
 *There is not a stable release yet. Download at your own risk.*
@@ -28,7 +26,7 @@ Please don't edit files in the `dist` subdirectory as they are generated via gru
 
 While grunt can run the included unit tests via PhantomJS, this shouldn't be considered a substitute for the real thing. Please be sure to test the `test/*.html` unit test file(s) in _actual_ browsers.
 
-### :memo: Installing grunt
+### :memo: INSTALL GRUNT
 
 _This assumes you have [node.js](http://nodejs.org/) and [npm](http://npmjs.org/) installed already._
 
