@@ -771,8 +771,8 @@
 
 			control = this.controls.squareDrag;
 			dimensions = {
-				w: square.width(),
-				h: square.height()
+				w: square.width() - control.width(),
+				h: square.height() - control.height()
 			};
 			square.data( 'dimensions', dimensions );
 			return dimensions;
